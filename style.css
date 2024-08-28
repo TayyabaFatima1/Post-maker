@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+
+.fontStyle{
+    font-family: 'Roboto Mono', monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+
+}
+.bg-green {
+	background-color: #125b9a;
+    height: 80px !important;
+    
+}
+.color-blue{
+	background-color: #125b9a;
+
+}
+.color-blue:hover{
+	background-color: #125b9a;
+
+}
+.border-green{
+    border: 2px solid #125B9A;
+    border-radius: 10px;
+}
